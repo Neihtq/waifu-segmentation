@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+data/waifus/
+frames/
+lightning_logs/
+waifu_detector.pth
