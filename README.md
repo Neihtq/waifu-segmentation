@@ -1,5 +1,7 @@
-![preview](preview.gif)
 <p align="center">
+  <a href="https://github.com/Neihtq/waifu-segmentation/">
+    <img src="./preview.gif">
+  </a>
   <h3 align="center">Waifu Segmentation</h3>
 
   <p align="center">
