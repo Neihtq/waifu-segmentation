@@ -43,7 +43,7 @@ Given the that fact and the popularity of anime, I came up with the idea of *Wai
 
 Contrarily the Waifu detection, I also wanted to do *Hazu Segmentation* so there is something for everyone. ***However***, unfortunately my model learned to detect anime characters in general, even though I only masks and labels of Waifus. To contraint the segmentation only to one gender might be a bit more complex and will be examined in another project.
 
-***Tl;dr:*** Waifu and Animes has gained lots of popularity; I decied to make a Waifu segmentation; Ended up in general anime chracter segmentation.
+***Tl;dr:*** Waifu and Anime have gained lots of popularity; I decided to make a Waifu segmentation model; Ended up in general anime chracter segmentation model
 
 ![screenshot](screenshot.png)
 It's not perfect (as you might have noticed from above's preview) but it does its work as expected!
